@@ -4,5 +4,6 @@
 # Clone the project 
 
 ```shell script
-git clone 
+git clone  https://github.com/jamesnyakush/open-weather.git
 ```
+
